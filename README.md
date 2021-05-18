@@ -18,7 +18,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![VsCode]( https://img.shields.io/badge/-VSCode-blueviolet)
+  ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=VsCode)
   
  
   
