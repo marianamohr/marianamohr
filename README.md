@@ -42,14 +42,12 @@
 * <a href="https://github.com/tryber/sd-010-b-project-zoo-functions/pull/54">Projeto Zoo Functions</a>.
 *  <a href="https://github.com/tryber/sd-010-b-project-shopping-cart/pull/71">Projeto Shopping Cart</a>.
 * <a href="https://github.com/tryber/sd-010-b-project-jest/pull/32">Projeto Jest</a>.
-* 
+ 
 <h4> Módulo FrontEnd com ReactJS</h4>
 <h5>Projetos:</h5>
 
 * <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library/pull/41">Movie Card Library</a>.
-
 * <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library-stateful/pull/23">Movie Card Library Stateful</a>.
-
 * <a href="https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/14">Movie Card Library CRUD</a>.
 
 
