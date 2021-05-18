@@ -17,14 +17,17 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![VsCode]( https://img.shields.io/badge/-VSCode-blueviolet)
+  
+ 
   
 
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
 
 
 <h3> :rocket: &nbsp;Projetos Realizados </h3>
@@ -41,7 +44,8 @@
 * <a href="https://github.com/tryber/sd-010-b-project-zoo-functions/pull/54">Projeto Zoo Functions</a>.
 *  <a href="https://github.com/tryber/sd-010-b-project-shopping-cart/pull/71">Projeto Shopping Cart</a>.
 * <a href="https://github.com/tryber/sd-010-b-project-jest/pull/32">Projeto Jest</a>.
-<h4> Módulo FrontEnd **ReactJS**</h4>
+* 
+<h4> Módulo FrontEnd com ReactJS</h4>
 <h5>Projetos:</h5>
 
 * <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library/pull/41">Movie Card Library</a>.
