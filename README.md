@@ -44,7 +44,7 @@ Hi, my name is **Mariana**, i'm from Florianópolis, Brazil, and i'm studying  t
 *  <a href="https://github.com/tryber/sd-010-b-project-shopping-cart/pull/71">Shopping Cart Project </a>.
 * <a href="https://github.com/tryber/sd-010-b-project-jest/pull/32">Jest Project </a>.
  
-<h4> Módulo FrontEnd com ReactJS</h4>
+<h4>FrontEnd module with ReactJS</h4>
 <h5>Projetos:</h5>
 
 * <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library/pull/41">Movie Card Library</a>.
