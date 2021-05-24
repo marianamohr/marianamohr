@@ -53,7 +53,7 @@ Olá, me chamo **Mariana**, sou de Florianópolis, Brasil, estou me capacitando 
 * <a href="https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/14">Movie Card Library CRUD</a>.
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarianamohr&layout=compact&theme=graywhite&title_color=268bd2" alt="marianamohr" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamohr&layout=compact&theme=graywhite&title_color=268bd2" alt="marianamohr" />
 </p>
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=marianamohr&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="marianamohr" />
