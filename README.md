@@ -1,14 +1,14 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-Olá, me chamo **Mariana**, sou de Florianópolis, Brasil, estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior** na <a href="https://www.betrybe.com/">TRYBE</a>.
+Olá, me chamo **Mariana**, sou de Florianópolis, Brasil, estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior** na <a href="https://www.betrybe.com/">Trybe</a>.
 
 
 **Meus interesses pessoais:**
 
 
 - 👨🏽‍💻 Estou estudando frontEnd com o framework **ReactJs**;
-- 🤔 Meus hobbies são leitura, filmes e começamdo no mundo da trilhas;
+- 🤔 Meus hobbies são leitura, filmes e começando no mundo da trilhas;
 - 💼 Estou perseguindo conhecimento, tentando aprender cada dia mais;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para marianamohr@gmail.com para me encontrar.
