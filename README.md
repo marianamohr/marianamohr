@@ -1,7 +1,7 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-Hi, my name is **Mariana**, i'm from Florianópolis, Brazil, and i'm studying  to be a ** Full-Stack Junior Developer** at <a href="https://www.betrybe.com/">Trybe</a>.
+Hi, my name is **Mariana**, i'm from Florianópolis, Brazil, and i'm studying  to be a **Full-Stack Junior Developer** at <a href="https://www.betrybe.com/">Trybe</a>.
 
 
 **My personal interests:**
