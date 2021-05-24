@@ -1,22 +1,21 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-Olá, me chamo **Mariana**, sou de Florianópolis, Brasil, estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior** na <a href="https://www.betrybe.com/">Trybe</a>.
+Hi, my name is **Mariana**, i'm from Florianópolis, Brazil, and i'm studying  to be a ** Full-Stack Junior Developer** at <a href="https://www.betrybe.com/">Trybe</a>.
 
 
-**Meus interesses pessoais:**
+**My personal interests:**
 
 
-- 👨🏽‍💻 Estou estudando frontEnd com o framework **ReactJs**;
-- 🤔 Meus hobbies são leitura, filmes e começando no mundo da trilhas;
-- 💼 Estou perseguindo conhecimento, tentando aprender cada dia mais;
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para marianamohr@gmail.com para me encontrar.
+- 👨🏽‍💻 I'm studing at the moment the framework **React.js**;
+- 🤔 My hobbies are reading, movies, to travel and trail;
+- 💬 I like to help others people, ask me about anything;
+- 📫 Please, send an email to marianamohr@gmail.com to contact me.
 
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Languages and App's </h3>
 
-**Linguagens e Ferramentas**
+
 
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -30,20 +29,20 @@ Olá, me chamo **Mariana**, sou de Florianópolis, Brasil, estou me capacitando 
 
 
 
-<h3> :rocket: &nbsp;Projetos Realizados </h3>
+<h3> :rocket: &nbsp;Accomplished Projects </h3>
 
-<h4> Módulo Fundamentos Web</h4>
-<h5>Projetos:</h5>
+<h4> Web Fundamentals Module</h4>
+<h5>Projects:</h5>
 
 
- * <a href="https://github.com/tryber/sd-010-b-project-playground-functions/pull/37">Projeto Play Ground Functions</a>.
- *  <a href="https://github.com/tryber/sd-010-b-project-pixels-art/pull/18">Projeto Pixels Art</a>.
- * <a href="https://github.com/tryber/sd-010-b-project-todo-list/pull/16">Projeto To Do List</a>.
-* <a href="https://github.com/tryber/sd-010-b-project-js-unit-tests/pull/12">Projeto Unit Tests</a>.
-* <a href="https://github.com/tryber/sd-010-b-project-facebook-signup/pull/47">Projeto Facebook SingUp</a>.
-* <a href="https://github.com/tryber/sd-010-b-project-zoo-functions/pull/54">Projeto Zoo Functions</a>.
-*  <a href="https://github.com/tryber/sd-010-b-project-shopping-cart/pull/71">Projeto Shopping Cart</a>.
-* <a href="https://github.com/tryber/sd-010-b-project-jest/pull/32">Projeto Jest</a>.
+ * <a href="https://github.com/tryber/sd-010-b-project-playground-functions/pull/37">Play Ground Functions Project </a>.
+ *  <a href="https://github.com/tryber/sd-010-b-project-pixels-art/pull/18">Pixels Art Project </a>.
+ * <a href="https://github.com/tryber/sd-010-b-project-todo-list/pull/16">To Do List Project </a>.
+* <a href="https://github.com/tryber/sd-010-b-project-js-unit-tests/pull/12"> Unit Tests Project </a>.
+* <a href="https://github.com/tryber/sd-010-b-project-facebook-signup/pull/47">Facebook SingUp Project </a>.
+* <a href="https://github.com/tryber/sd-010-b-project-zoo-functions/pull/54">Zoo Functions Project </a>.
+*  <a href="https://github.com/tryber/sd-010-b-project-shopping-cart/pull/71">Shopping Cart Project </a>.
+* <a href="https://github.com/tryber/sd-010-b-project-jest/pull/32">Jest Project </a>.
  
 <h4> Módulo FrontEnd com ReactJS</h4>
 <h5>Projetos:</h5>
@@ -66,6 +65,6 @@ Olá, me chamo **Mariana**, sou de Florianópolis, Brasil, estou me capacitando 
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
 
-⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
+⭐️ Based on [Johnatas Henrique](https://github.com/johnatas-henrique)
 
 
