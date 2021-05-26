@@ -21,7 +21,7 @@ Hi, my name is **Mariana**, i'm from Florianópolis, Brazil, and i'm studying  t
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=VsCode)
+  ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
@@ -33,21 +33,21 @@ Hi, my name is **Mariana**, i'm from Florianópolis, Brazil, and i'm studying  t
 <h5>Projects:</h5>
 
 
- * <a href="https://github.com/tryber/sd-010-b-project-playground-functions/pull/37">Play Ground Functions Project </a>.
- *  <a href="https://github.com/tryber/sd-010-b-project-pixels-art/pull/18">Pixels Art Project </a>.
- * <a href="https://github.com/tryber/sd-010-b-project-todo-list/pull/16">To Do List Project </a>.
-* <a href="https://github.com/tryber/sd-010-b-project-js-unit-tests/pull/12"> Unit Tests Project </a>.
-* <a href="https://github.com/tryber/sd-010-b-project-facebook-signup/pull/47">Facebook SingUp Project </a>.
-* <a href="https://github.com/tryber/sd-010-b-project-zoo-functions/pull/54">Zoo Functions Project </a>.
-*  <a href="https://github.com/tryber/sd-010-b-project-shopping-cart/pull/71">Shopping Cart Project </a>.
-* <a href="https://github.com/tryber/sd-010-b-project-jest/pull/32">Jest Project </a>.
+ * <a href="https://github.com/tryber/sd-010-b-project-playground-functions/pull/37">Play Ground Functions Project </a>
+ *  <a href="https://github.com/tryber/sd-010-b-project-pixels-art/pull/18">Pixels Art Project </a>
+ * <a href="https://github.com/tryber/sd-010-b-project-todo-list/pull/16">To Do List Project </a>
+* <a href="https://github.com/tryber/sd-010-b-project-js-unit-tests/pull/12"> Unit Tests Project </a>
+* <a href="https://github.com/tryber/sd-010-b-project-facebook-signup/pull/47">Facebook SingUp Project </a>
+* <a href="https://github.com/tryber/sd-010-b-project-zoo-functions/pull/54">Zoo Functions Project </a>
+*  <a href="https://github.com/tryber/sd-010-b-project-shopping-cart/pull/71">Shopping Cart Project </a>
+* <a href="https://github.com/tryber/sd-010-b-project-jest/pull/32">Jest Project </a>
  
 <h4>FrontEnd module with ReactJS</h4>
 <h5>Projetos:</h5>
 
-* <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library/pull/41">Movie Card Library</a>.
-* <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library-stateful/pull/23">Movie Card Library Stateful</a>.
-* <a href="https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/14">Movie Card Library CRUD</a>.
+* <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library/pull/41">Movie Card Library</a>
+* <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library-stateful/pull/23">Movie Card Library Stateful</a>
+* <a href="https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/14">Movie Card Library CRUD</a>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamohr&layout=compact&theme=graywhite&title_color=268bd2" alt="marianamohr" />
