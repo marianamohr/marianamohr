@@ -7,6 +7,7 @@ Hi, my name is **Mariana**, i'm from Florianópolis, Brazil, and i'm studying  t
 - 👨🏽‍💻 I'm studing at the moment the framework **React.js**;
 - 🤔 My hobbies are reading, movies, to travel and trail;
 - 💬 I like to help others people, ask me about anything;
+- 🌍 I want to work from anywhere in the world
 - 📫 Please, send an email to marianamohr@gmail.com to contact me.
 
 
