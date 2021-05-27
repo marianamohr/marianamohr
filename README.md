@@ -48,6 +48,7 @@ Hi, my name is **Mariana**, i'm from Florianópolis, Brazil, and i'm studying  t
 * <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library/pull/41">Movie Card Library</a>
 * <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library-stateful/pull/23">Movie Card Library Stateful</a>
 * <a href="https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/14">Movie Card Library CRUD</a>
+* <a href="https://github.com/tryber/sd-010-b-project-react-testing-library/pull/8">React Testing Library Project</a>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamohr&layout=compact&theme=graywhite&title_color=268bd2" alt="marianamohr" />
