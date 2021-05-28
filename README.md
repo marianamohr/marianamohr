@@ -13,8 +13,6 @@ Hi, my name is **Mariana**, i'm from Florianópolis, Brazil, and i'm studying  t
 
 <h3> :rocket: &nbsp;Languages and App's </h3>
 
-
-
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -50,6 +48,8 @@ Hi, my name is **Mariana**, i'm from Florianópolis, Brazil, and i'm studying  t
 * <a href="https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/14">Movie Card Library CRUD</a>
 * <a href="https://github.com/tryber/sd-010-b-project-react-testing-library/pull/8">React Testing Library Project</a>
 
+
+  <a href="https://marianamohr.github.io/">My GithubPages</a> with another Projects.
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamohr&layout=compact&theme=graywhite&title_color=268bd2" alt="marianamohr" />
 </p>
