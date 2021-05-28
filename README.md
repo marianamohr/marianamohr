@@ -49,8 +49,10 @@ Hi, my name is **Mariana**, i'm from Florianópolis, Brazil, and i'm studying  t
 * <a href="https://github.com/tryber/sd-010-b-project-react-testing-library/pull/8">React Testing Library Project</a>
 
 
-  <a href="https://marianamohr.github.io/">My GithubPages</a> with another Projects.
+
+📄 <a href="https://marianamohr.github.io/">My GithubPages</a> with another Projects.
 <p>
+  
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamohr&layout=compact&theme=graywhite&title_color=268bd2" alt="marianamohr" />
 </p>
 <p>&nbsp;
