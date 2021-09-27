@@ -16,17 +16,26 @@ Currently, I'm a Drupal Developer at <a href="https://www.zoocha.com/">Zoocha Li
 <h3> :rocket: &nbsp;Languages and App's </h3>
 
   
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![Drupal](https://img.shields.io/badge/-Drupal-333333?style=flat&logo=drupal)
-  ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
-
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat=square&logo=linux&logoColor=black)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+  ![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
+  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat=square&logo=redux&logoColor=white)&nbsp;
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)&nbsp;
+  ![RTL](https://img.shields.io/badge/-RTL-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
+  ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)&nbsp;
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat=square&logo=mysql&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white)&nbsp;
+  ![NodeJS](https://img.shields.io/badge/-Node.Js-339933?style=flat=square&logo=node-dot-js&logoColor=white)&nbsp;
+  ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat=square)&nbsp;
+  ![Kanban](https://img.shields.io/badge/-Kanban-grey?style=flat=square)&nbsp;
+  ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat=square&logo=npm&logoColor=white)&nbsp;![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat=square&logo=mysql&logoColor=white)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+  ![Drupal](https://img.shields.io/badge/-Drupal-333333?style=flat&logo=drupal)&nbsp;
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)&nbsp;
 
 <h3> :rocket: &nbsp;Accomplished Projects </h3>
 
