@@ -21,10 +21,11 @@ Currently, I'm a Drupal Developer at <a href="https://www.zoocha.com/">Zoocha Li
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Drupal](https://img.shields.io/badge/-Drupal-333333?style=flat&logo=drupal)
   ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 
 
 <h3> :rocket: &nbsp;Accomplished Projects </h3>
