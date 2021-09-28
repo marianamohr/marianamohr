@@ -37,33 +37,6 @@ Currently, I'm a Drupal Developer at <a href="https://www.zoocha.com/">Zoocha Li
   ![Drupal](https://img.shields.io/badge/-Drupal-333333?style=flat&logo=drupal)&nbsp;
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)&nbsp;
 
-<h3> :rocket: &nbsp;Accomplished Projects </h3>
-
-<h4> Web Fundamentals Module</h4>
-<h5>Projects:</h5>
-
-
- * <a href="https://github.com/tryber/sd-010-b-project-playground-functions/pull/37">Play Ground Functions Project </a>
- *  <a href="https://github.com/tryber/sd-010-b-project-pixels-art/pull/18">Pixels Art Project </a>
- * <a href="https://github.com/tryber/sd-010-b-project-todo-list/pull/16">To Do List Project </a>
-* <a href="https://github.com/tryber/sd-010-b-project-js-unit-tests/pull/12"> Unit Tests Project </a>
-* <a href="https://github.com/tryber/sd-010-b-project-facebook-signup/pull/47">Facebook SingUp Project </a>
-* <a href="https://github.com/tryber/sd-010-b-project-zoo-functions/pull/54">Zoo Functions Project </a>
-*  <a href="https://github.com/tryber/sd-010-b-project-shopping-cart/pull/71">Shopping Cart Project </a>
-* <a href="https://github.com/tryber/sd-010-b-project-jest/pull/32">Jest Project </a>
- 
-<h4>FrontEnd module with ReactJS</h4>
-<h5>Projetos:</h5>
-
-* <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library/pull/41">Movie Card Library</a>
-* <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library-stateful/pull/23">Movie Card Library Stateful</a>
-* <a href="https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/14">Movie Card Library CRUD</a>
-* <a href="https://github.com/tryber/sd-010-b-project-react-testing-library/pull/8">React Testing Library Project</a>
-
-
-
-📄 <a href="https://marianamohr.github.io/">My GithubPages</a> with another Projects.
-
 <div>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamohr&layout=compact&theme=graywhite&title_color=268bd2" alt="marianamohr" />
