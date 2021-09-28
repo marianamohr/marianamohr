@@ -6,7 +6,7 @@ Currently, I'm a Drupal Developer at <a href="https://www.zoocha.com/">Zoocha Li
 **My personal interests:**
 
 
-- 👨🏽‍💻 I'm studing at the moment the framework **React.js**;
+- 👨🏽‍💻 I'm currently in the Backend module at Trybe, studying NodeJs, Express, Test.;
 - 🤔 My hobbies are reading, movies, to travel and trail;
 - 💬 I like to help others people, ask me about anything;
 - 🌍 I want to work from anywhere in the world;
