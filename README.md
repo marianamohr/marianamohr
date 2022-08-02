@@ -1,19 +1,16 @@
 Ol[a, meu nome é **Mariana**, Atialmente moro em Balneário Camboriú, fiz o Curso de Desenvolvedora Web na <a href="https://www.betrybe.com/">Trybe</a>.
 
-Atualmente trabalho com Pessoa Instrutora do modulo de backend na https://playbook.betrybe.com/docs/people/onboarding/
+Atualmente trabalho com Pessoa Instrutora do modulo de backend na <a href="https://www.betrybe.com/">Trybe</a>.
+
 
 **Interesses Pessoais:**
-
-
 
 - 🤔 Meus hobbies são leitura, filmes e series, viajar e curtir com os amigos e familia;
 - 💬 Eu gosto de ajudar as pessoas, por esse motivo ingressei na Trybe;
 - 📫 Por favor,mande um email para marianamohr@gmail.compara me contactar.
 
 
-
 <h3> :rocket: &nbsp;Liguagens e App's </h3>
-
   
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat=square&logo=linux&logoColor=black)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
