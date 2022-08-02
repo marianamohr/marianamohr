@@ -1,4 +1,4 @@
-Ol[a, meu nome é **Mariana**, Atialmente moro em Balneário Camboriú, fiz o Curso de Desenvolvedora Web na <a href="https://www.betrybe.com/">Trybe</a>.
+Olá, meu nome é **Mariana**, moro em Balneário Camboriú, fiz o Curso de Desenvolvedora Web na <a href="https://www.betrybe.com/">Trybe</a>.
 
 Atualmente trabalho com Pessoa Instrutora do modulo de backend na <a href="https://www.betrybe.com/">Trybe</a>.
 
