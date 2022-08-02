@@ -7,7 +7,7 @@ Atualmente trabalho com Pessoa Instrutora do modulo de backend na <a href="https
 
 - 🤔 Meus hobbies são leitura, filmes e series, viajar e curtir com os amigos e familia;
 - 💬 Eu gosto de ajudar as pessoas, por esse motivo ingressei na Trybe;
-- 📫 Por favor,mande um email para marianamohr@gmail.compara me contactar.
+- 📫 Por favor,mande um email para marianamohr@gmail.com para me contactar.
 
 
 <h3> :rocket: &nbsp;Liguagens e App's </h3>
