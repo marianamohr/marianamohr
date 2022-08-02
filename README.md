@@ -31,6 +31,7 @@ Atualmente trabalho com Pessoa Instrutora do modulo de backend na <a href="https
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
   ![Drupal](https://img.shields.io/badge/-Drupal-333333?style=flat&logo=drupal)&nbsp;
+    ![SCRUM](https://img.shields.io/badge/-PHP-blue?style=flat=square)&nbsp;
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)&nbsp;
 
 <div>
