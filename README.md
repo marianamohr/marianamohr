@@ -1,19 +1,18 @@
-Hi, my name is **Mariana**, i'm from Florianópolis, Brazil, and i'm studying  to be a **Full-Stack Junior Developer** at <a href="https://www.betrybe.com/">Trybe</a>.
+Ol[a, meu nome é **Mariana**, Atialmente moro em Balneário Camboriú, fiz o Curso de Desenvolvedora Web na <a href="https://www.betrybe.com/">Trybe</a>.
 
-Currently, I'm a Drupal Developer at <a href="https://www.zoocha.com/">Zoocha Limited</a>.
+Atualmente trabalho com Pessoa Instrutora do modulo de backend na https://playbook.betrybe.com/docs/people/onboarding/
 
-
-**My personal interests:**
-
-
-- 👨🏽‍💻 I'm currently in the Backend module at Trybe, studying NodeJs, Express, Test.;
-- 🤔 My hobbies are reading, movies, to travel and trail;
-- 💬 I like to help others people, ask me about anything;
-- 🌍 I want to work from anywhere in the world;
-- 📫 Please, send an email to marianamohr@gmail.com to contact me.
+**Interesses Pessoais:**
 
 
-<h3> :rocket: &nbsp;Languages and App's </h3>
+
+- 🤔 Meus hobbies são leitura, filmes e series, viajar e curtir com os amigos e familia;
+- 💬 Eu gosto de ajudar as pessoas, por esse motivo ingressei na Trybe;
+- 📫 Por favor,mande um email para marianamohr@gmail.compara me contactar.
+
+
+
+<h3> :rocket: &nbsp;Liguagens e App's </h3>
 
   
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat=square&logo=linux&logoColor=black)&nbsp;
