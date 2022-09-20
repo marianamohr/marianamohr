@@ -1,7 +1,7 @@
 
 
 ## 👩‍💻  Olá! Eu sou Mariana Mohr.
-##### 📟 Desenvolvedora Backend e Pessoa instrutora na <a href="https://www.betrybe.com/">Trybe</a>.. 
+##### 📟 Desenvolvedora Backend e Pessoa instrutora na <a href="https://www.betrybe.com/">Trybe</a>.
 ##### 📊 Uma pessoa em constante evolução.
 
 
