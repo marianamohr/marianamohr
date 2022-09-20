@@ -1,6 +1,9 @@
-Olá, meu nome é **Mariana**, moro em Balneário Camboriú, fiz o Curso de Desenvolvedora Web na <a href="https://www.betrybe.com/">Trybe</a>.
 
-Atualmente trabalho com Pessoa Instrutora do modulo de backend na <a href="https://www.betrybe.com/">Trybe</a>.
+
+## 👩‍💻  Olá! Eu sou Mariana Mohr.
+##### 📟 Desenvolvedora Backend e Pessoa instrutora na <a href="https://www.betrybe.com/">Trybe</a>.. 
+##### 📊 Uma pessoa em constante evolução.
+
 
 
 **Interesses Pessoais:**
@@ -31,8 +34,9 @@ Atualmente trabalho com Pessoa Instrutora do modulo de backend na <a href="https
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
   ![Drupal](https://img.shields.io/badge/-Drupal-333333?style=flat&logo=drupal)&nbsp;
-    ![SCRUM](https://img.shields.io/badge/-PHP-blue?style=flat=square)&nbsp;
+  ![SCRUM](https://img.shields.io/badge/-PHP-blue?style=flat=square)&nbsp;
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
 
 <div>
 <p>
@@ -49,7 +53,4 @@ Atualmente trabalho com Pessoa Instrutora do modulo de backend na <a href="https
 <a href="https://www.instagram.com/marianamohr/?hl=pt-br" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
-
-⭐️ Based on [Johnatas Henrique](https://github.com/johnatas-henrique)
-
 
