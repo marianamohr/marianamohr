@@ -42,7 +42,7 @@
   <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marianamohr&show_icons=true&theme=radical"/>
   <img heignt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamohr&layout=compact&theme=radical"/>
-</div>
+</div>&nbsp;
 
 <a href="https://www.linkedin.com/in/mariana-mohr/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
