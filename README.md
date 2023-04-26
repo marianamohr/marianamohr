@@ -11,12 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-mohr/?locale=en_US)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marianamohr/?hl=pt-br)
 
-<a href="https://www.linkedin.com/in/mariana-mohr/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-<a href="https://www.instagram.com/marianamohr/?hl=pt-br" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a>
 
 
 # 💻 Tech Stack:
@@ -58,7 +52,5 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamohr&layout=compact&theme=radical"/>
 </div>&nbsp;
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=marianamohr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
