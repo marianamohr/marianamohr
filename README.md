@@ -1,48 +1,15 @@
+## 👩‍💻 Hello, I'm Mariana Mohr.
+
+# 💫 About Me:
+<ul>
+<li>👾 Backend Devoper at FXN Capital and Backend Instructor at Trybe</li>
+<li>📫 How to reach me: marianamohr@gmail.com</li>
+</ul>
 
 
-## 👩‍💻  Olá! Eu sou Mariana Mohr.
-##### 📟 Desenvolvedora Backend e Pessoa instrutora na <a href="https://www.betrybe.com/">Trybe</a>.
-##### 📊 Uma pessoa em constante evolução.
-
-
-
-**Interesses Pessoais:**
-
-- 🤔 Meus hobbies são leitura, filmes e series, viajar e curtir com os amigos e familia;
-- 💬 Eu gosto de ajudar as pessoas, por esse motivo ingressei na Trybe;
-- 📫 Por favor,mande um email para marianamohr@gmail.com para me contactar.
-
-
-<h3> :rocket: &nbsp;Liguagens e App's </h3>
-  
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat=square&logo=linux&logoColor=black)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-  ![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
-  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat=square&logo=redux&logoColor=white)&nbsp;
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)&nbsp;
-  ![RTL](https://img.shields.io/badge/-RTL-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
-  ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)&nbsp;
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat=square&logo=mysql&logoColor=white)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/-Node.Js-339933?style=flat=square&logo=node-dot-js&logoColor=white)&nbsp;
-  ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat=square)&nbsp;
-  ![Kanban](https://img.shields.io/badge/-Kanban-grey?style=flat=square)&nbsp;
-  ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat=square&logo=npm&logoColor=white)&nbsp;![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat=square&logo=mysql&logoColor=white)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-  ![Drupal](https://img.shields.io/badge/-Drupal-333333?style=flat&logo=drupal)&nbsp;
-  ![SCRUM](https://img.shields.io/badge/-PHP-blue?style=flat=square)&nbsp;
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
-
-  
-  <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marianamohr&show_icons=true&theme=radical"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamohr&layout=compact&theme=radical"/>
-</div>&nbsp;
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-mohr/?locale=en_US)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marianamohr/?hl=pt-br)
 
 <a href="https://www.linkedin.com/in/mariana-mohr/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
@@ -50,4 +17,48 @@
 <a href="https://www.instagram.com/marianamohr/?hl=pt-br" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
+
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![PHP](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Drupal](https://img.shields.io/badge/-Drupal-333333?style=for-the-badge&logo=drupal)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Yarn](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+# 📊 GitHub Stats: 
+  <div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marianamohr&show_icons=true&theme=radical"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamohr&layout=compact&theme=radical"/>
+</div>&nbsp;
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=marianamohr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
