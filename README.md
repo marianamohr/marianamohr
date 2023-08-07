@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <ul>
-<li>👾 Backend Devoper at FXN Capital and Backend Instructor at Trybe</li>
+<li>👾 Backend Devoper at FXN Capital</li>
 <li>📫 How to reach me: marianamohr@gmail.com</li>
 </ul>
 
