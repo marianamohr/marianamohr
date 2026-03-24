@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <ul>
-<li>👾 Backend Engineer at Grupo SBF</li>
+<li>👾 Backend Engineer at Arco Tech</li>
 <li>📫 How to reach me: marianamohr@gmail.com</li>
 </ul>
 
